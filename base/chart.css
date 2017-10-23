@@ -1,0 +1,57 @@
+.vertical {
+    display: block;
+    width: 1000px;
+    padding: 0;
+    margin: 0;
+}
+.box{
+    float: left;
+}
+.canvas-box {
+    display: inline-block;
+    z-index: -1;
+}
+
+.box .table-box {
+    display: inline-block;
+    position: absolute;
+    top: 145px;
+    left: 930px;
+}
+
+.table-box>.table {
+    vertical-align: middle;
+    text-align: left;
+    width: 250px;
+    border: 0;
+}
+
+.sub th {
+    font-size: 12px;
+    color: #3b3b3b;
+}
+
+.only-seven {
+    font-size: 20px;
+}
+
+.seven {
+    color: '#dddd',
+}
+
+.table-diff {
+    font-size: 13px;
+}
+
+.table-box>.table-diff td,
+.table-box>.table-diff th {
+    height: 40px;
+}
+
+.table-box>.table-diff tr:nth-child(odd) {
+    background-color: #f5f5f5;
+}
+.table-box{
+   float: left;
+   margin-top: -75px;
+}

@@ -1,0 +1,27 @@
+.active {
+    color: #93b3eb;
+}
+.tab ul {
+    overflow: hidden;
+    border: 1px solid #b5b5b5;
+    font-family: 'SourceHanSansCN-Light';
+    font-size: 12px;
+    display: inline-block;
+    padding: 0;
+    border-radius: 3px;
+}
+.tab li {
+    float: left;
+    list-style: none;
+    padding: 4px 5px;
+
+}
+.tab li:nth-child(2) {
+    border-left: 1px solid #b5b5b5;
+    border-right: 1px solid #b5b5b5;
+}
+#tab {
+    position: absolute;
+    left: 800px;
+    z-index: 2;
+}

@@ -1,0 +1,34 @@
+ *{padding: 0;margin: 0;}
+ .main{width: 1280px;height: 71px;border-bottom: 1px solid #ddd;line-height: 72px;padding-left: 34px;font-size: 12px;}
+ .lineEl{display: inline-block;}
+ .mapOfChina{font-size: 16px;padding-right: 8px;}
+ .default{line-height: 32px;padding-right: 50px;}
+ .textStyle{color:#779ef4;font-size: 12px;}
+ .textStyleTime{color: #999;}
+ .offset{margin-left: 250px;}
+ .offsetImage{margin-left:80px;}
+
+/*.triggerShow{display: block;position: relative;overflow: hidden;position: relative;}
+.dropDown{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  list-style: none;
+  display: inline-block;
+  padding: 4px 10px;
+  width: 67px;
+  text-align: center;
+  vertical-align: middle;
+  position: absolute;
+}
+
+.dropDown li a {
+  display: inline-block;
+  color: #999;
+  text-decoration: none;
+  width: 52px;
+}
+
+.dropDown li .active{
+  background-color: #93b3eb;
+  color: #fff;
+}*/
